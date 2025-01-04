@@ -10,12 +10,12 @@ function App() {
     <>
     <Helmet>
       <title>EMI Calculator - Easy Loan EMI Calculation</title>
-      <link rel="canonical" href="https://www.example.com" />
+      <link rel="canonical" href="https://emi-calculator-irk.vercel.app/" />
       <meta name="description" content="Calculate your loan EMI easily using our EMI calculator. Plan your finances better with accurate monthly installment calculations." />
       <meta name="keywords" content="EMI Calculator, Loan EMI, Financial Planning" />
       <meta property="og:title" content="EMI Calculator - Easy Loan EMI Calculation" />
       <meta property="og:description" content="Calculate your loan EMI easily using our EMI calculator." />
-      <meta property="og:url" content="https://yourdomain.com/emi-calculator" />
+      <meta property="og:url" content="https://emi-calculator-irk.vercel.app/" />
       <meta property="og:type" content="website" />
       <script type="application/ld+json">
     {`
@@ -24,8 +24,8 @@ function App() {
         "@type": "WebPage",
         "name": "EMI Calculator",
         "description": "Calculate your loan EMI easily using our EMI calculator. Plan your finances better with accurate monthly installment calculations.",
-        "url": "https://yourdomain.com/emi-calculator",
-        "mainEntityOfPage": "https://yourdomain.com/emi-calculator"
+        "url": "https://emi-calculator-irk.vercel.app/",
+        "mainEntityOfPage": "https://emi-calculator-irk.vercel.app/"
       }
     `}
   </script>
